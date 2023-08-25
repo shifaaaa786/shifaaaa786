@@ -5,7 +5,7 @@
 </br>
 
 [![Linkedin
-    Badge](https://img.shields.io/badge/-ShifaFarooqui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shifa-farooqui-674143226/)](https://www.linkedin.com/in/shifa-farooqui-674143226/)]
+    Badge](https://img.shields.io/badge/-ShifaFarooqui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shifa-farooqui-674143226/)](https://www.linkedin.com/in/shifa-farooqui-674143226/)
     <div align=right>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png"
             alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
