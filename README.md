@@ -11,9 +11,9 @@
             alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
 
-    - 🌱 I’m currently learning React;
-    - 🤔 I’m looking for help with Web Development skills;
-    - 💬 Ask me about Web development or any tech related stuff;
+    - 🌱 I’m currently learning Android Development;
+    - 🤔 I’m looking for help with Android Development skills;
+    - 💬 Ask me about Android Dev or any tech related stuff;
     - 😄 Pronouns: Coder, Leader and Optimism;
     - 📫 How to reach me: shifa.farooqui09@gmail.com
 <br><br>
